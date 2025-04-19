@@ -364,9 +364,6 @@ button {
     padding-bottom: 120px;
 }
 
-.portfolio-container{
-
-}
 .portfolio-title-text {
     margin-bottom: 72px;
 }
@@ -476,8 +473,4 @@ button {
 .footer-svg-div{
     display: flex;
     gap: 16px;
-}
-
-.footer-svg{
-
 }
