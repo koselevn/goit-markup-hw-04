@@ -207,7 +207,7 @@ button {
 /* Title */
 
 .title-section{
-
+    max-width: 1440px;
 
     padding-top: 188px;
     padding-bottom: 188px;
